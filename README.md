@@ -1,2 +1,2 @@
-# SysreDynamicsNavExtensions
-Microsoft Dynamics NAV Extensions for Systems Reengineered Ltd
+# FundsManagementApp
+Microsoft Dynamics 365 Extensions for Funds Management
